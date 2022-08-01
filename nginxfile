@@ -1,0 +1,4 @@
+From nginx
+Maintainer "Preethi"
+EXPOSE 80
+CMD ["nginx", "-g", "daemon off;"]
